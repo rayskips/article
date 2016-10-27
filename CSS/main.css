@@ -1,3 +1,25 @@
 p{
-    background-color: aqua
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
 }
+.container{
+max-width: 80%;
+margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+  .container{
+      background-color: red;
+    }
+    
+    
+  }
